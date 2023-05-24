@@ -1,0 +1,3 @@
+user(id*, name, age, hashedpassword)
+book(id*)
+reservation(bookid*, userid*, date)
